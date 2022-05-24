@@ -13,7 +13,8 @@ I love everything related to technology and games. I am currently studying Web D
 
 <a href="https://www.twitter.com/Siylph1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Siylph1?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a>
+/></a><a href="https://www.github.com/KaiqueCoelho" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/KaiqueCoelho?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -35,3 +36,5 @@ src="https://img.shields.io/twitter/follow/Siylph1?logo=twitter&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/KaiqueCoelho"><img src="https://github-readme-stats.vercel.app/api?username=KaiqueCoelho&show_icons=true&hide=stars,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="KaiqueCoelho's GitHub stats" /></a>
+
+<a href="https://github.com/KaiqueCoelho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueCoelho&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
