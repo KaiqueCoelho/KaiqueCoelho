@@ -1,10 +1,10 @@
 Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Kaique Coelho
 =====================================================================================================================================
 
-Estudante de Desenvolvimento Web na Trybe
+Desenvolvedor Web Full Stack
 --------------------------------
 
-Amo tudo relacionado a tecnologia e games. Atualmente estudo Desenvolvimento Web na Trybe, e com a metodologia deles unida à minha grande vontade de aprender, aspiro me tornar um ótimo profissional para contribuir na área que tanto gosto. Adoro ideias inovadoras e espero fazer parte de uma num futuro próximo.
+Amo tudo relacionado a tecnologia e games. Adoro ideias inovadoras e espero fazer parte de uma num futuro próximo.
 
 * 🌍  Moro em São Paulo, Brasil
 * ✉️   Você pode entrar em contato pelo email: [kaiquescoelho@hotmail.com](mailto:kaiquescoelho@hotmail.com)
