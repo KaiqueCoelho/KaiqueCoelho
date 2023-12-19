@@ -8,7 +8,6 @@ Amo tudo relacionado a tecnologia e games. Adoro ideias inovadoras e espero faze
 
 * 🌍  Moro em São Paulo, Brasil
 * ✉️   Você pode entrar em contato pelo email: [kaiquescoelho@hotmail.com](mailto:kaiquescoelho@hotmail.com)
-* 🧠  Atualmente estou estudando Flutter
 
 <a href="https://www.github.com/KaiqueCoelho" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KaiqueCoelho?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
